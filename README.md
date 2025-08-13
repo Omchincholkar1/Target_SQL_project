@@ -87,9 +87,8 @@ This project is licensed under the **MIT License**.
 ### 👤 Author  
 Om Chincholkar  
 💼 Data Analytics | SQL Enthusiast  
-🔗 https://www.linkedin.com/in/om-chincholkar-44b821263/  
+🔗 LinkedIn: https://www.linkedin.com/in/om-chincholkar-44b821263/  
 
 ---
-
-## 📄 Project Structure  
+ 
 
