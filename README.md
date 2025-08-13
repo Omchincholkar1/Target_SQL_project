@@ -55,7 +55,6 @@ The goal: Answer important business questions and generate insights that could *
 
 - **SQL** – Google BigQuery  
 - **Data Manipulation** – Aggregations & date/time transformations  
-- **Visualizations** – External tools (Google Data Studio / Power BI ready)
 
 ---
 ## 📄 Project Structure  
